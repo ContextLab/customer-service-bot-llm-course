@@ -1,8 +1,8 @@
 # Assignment 4: Context-Aware Customer Service Chatbot
 
-> **📥 Accept this assignment:** [GitHub Classroom Link](https://classroom.github.com/a/RYMMhVAL)
+> **Accept this assignment:** [GitHub Classroom Link](https://classroom.github.com/a/RYMMhVAL)
 >
-> **📅 Due:** February 6, 2026 at 11:59 PM EST
+> **Due:** February 6, 2026 at 11:59 PM EST
 >
 > Click the link above to create your private repository for this assignment. Complete your work in Google Colab, then push your notebook to the repository before the deadline.
 
