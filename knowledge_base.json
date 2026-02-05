@@ -1,0 +1,352 @@
+[
+  {
+    "id": "faq_001",
+    "question": "How do I reset my password?",
+    "answer": "To reset your password, go to the login page and click 'Forgot Password.' Enter the email address associated with your account, and we'll send you a reset link. The link expires after 24 hours. If you don't receive the email, check your spam folder or contact support.",
+    "category": "account_access",
+    "keywords": ["password", "reset", "forgot", "login"]
+  },
+  {
+    "id": "faq_002",
+    "question": "Why is my account locked?",
+    "answer": "Accounts are automatically locked after 5 failed login attempts within 15 minutes. This is a security measure to protect your account. Wait 30 minutes for the lockout to expire, or contact support to unlock your account immediately.",
+    "category": "account_access",
+    "keywords": ["locked", "account", "login", "attempts"]
+  },
+  {
+    "id": "faq_003",
+    "question": "How do I enable two-factor authentication?",
+    "answer": "Go to Settings > Security > Two-Factor Authentication. You can choose between SMS verification or an authenticator app (Google Authenticator, Authy). We recommend using an authenticator app for better security. Once enabled, you'll need a verification code each time you log in.",
+    "category": "account_access",
+    "keywords": ["two-factor", "2FA", "authentication", "security"]
+  },
+  {
+    "id": "faq_004",
+    "question": "How do I change my email address?",
+    "answer": "Go to Settings > Profile > Email Address. Enter your new email and confirm it by clicking the verification link we send. Your old email will remain active for 7 days in case you need to revert the change. Note: changing your email also changes your login credentials.",
+    "category": "account_access",
+    "keywords": ["email", "change", "update", "address"]
+  },
+  {
+    "id": "faq_005",
+    "question": "How do I recover my username?",
+    "answer": "If you forgot your username, go to the login page and click 'Forgot Username.' Enter the email address associated with your account, and we'll send your username to that email. If you no longer have access to that email, contact support with your account verification details.",
+    "category": "account_access",
+    "keywords": ["username", "forgot", "recover", "login"]
+  },
+  {
+    "id": "faq_006",
+    "question": "How do I delete my account?",
+    "answer": "To delete your account, go to Settings > Account > Delete Account. You'll need to confirm your password and acknowledge that this action is permanent. All your data will be deleted within 30 days. You can download a copy of your data before deletion from Settings > Data Export.",
+    "category": "account_access",
+    "keywords": ["delete", "account", "remove", "permanent"]
+  },
+  {
+    "id": "faq_007",
+    "question": "How do I update my profile information?",
+    "answer": "Go to Settings > Profile to update your name, phone number, profile picture, and other personal details. Changes take effect immediately. Your display name is visible to other users, while your phone number and email remain private.",
+    "category": "account_access",
+    "keywords": ["profile", "update", "name", "personal"]
+  },
+  {
+    "id": "faq_008",
+    "question": "Can I have multiple accounts?",
+    "answer": "Each person is limited to one personal account. However, you can create a separate business account linked to a different email address. Business accounts have additional features like team management and invoicing. Contact our sales team for business account setup.",
+    "category": "account_access",
+    "keywords": ["multiple", "accounts", "business", "separate"]
+  },
+  {
+    "id": "faq_009",
+    "question": "What subscription plans do you offer?",
+    "answer": "We offer three plans: Free (basic features, 5 projects), Pro ($12/month, unlimited projects, priority support), and Enterprise (custom pricing, team management, SSO, dedicated account manager). All paid plans include a 14-day free trial. You can switch plans at any time.",
+    "category": "billing",
+    "keywords": ["plans", "subscription", "pricing", "free", "pro"]
+  },
+  {
+    "id": "faq_010",
+    "question": "How do I update my payment method?",
+    "answer": "Go to Settings > Billing > Payment Methods. You can add a new credit card, debit card, or PayPal account. To change your default payment method, click 'Set as Default' next to the desired method. You can also remove old payment methods from this page.",
+    "category": "billing",
+    "keywords": ["payment", "credit card", "billing", "update"]
+  },
+  {
+    "id": "faq_011",
+    "question": "How do I get a refund?",
+    "answer": "We offer refunds within 30 days of purchase for annual plans and within 7 days for monthly plans. To request a refund, go to Settings > Billing > Request Refund, or contact support. Refunds are processed within 5-10 business days and returned to your original payment method.",
+    "category": "billing",
+    "keywords": ["refund", "money back", "cancel", "return"]
+  },
+  {
+    "id": "faq_012",
+    "question": "Why was I charged unexpectedly?",
+    "answer": "Unexpected charges are usually due to auto-renewal of your subscription or a plan upgrade that took effect. Check your billing history at Settings > Billing > History. If the charge is unauthorized, contact support immediately. We can reverse unauthorized charges within 48 hours.",
+    "category": "billing",
+    "keywords": ["charge", "unexpected", "billing", "unauthorized"]
+  },
+  {
+    "id": "faq_013",
+    "question": "How do I cancel my subscription?",
+    "answer": "Go to Settings > Billing > Manage Subscription > Cancel. Your access continues until the end of the current billing period. You won't be charged again after cancellation. Your data is retained for 90 days in case you want to resubscribe.",
+    "category": "billing",
+    "keywords": ["cancel", "subscription", "stop", "unsubscribe"]
+  },
+  {
+    "id": "faq_014",
+    "question": "How can I get an invoice for my purchase?",
+    "answer": "Invoices are automatically generated for all transactions. Go to Settings > Billing > History to download PDF invoices. You can also set up automatic invoice emails by enabling 'Email Invoices' in your billing preferences. For custom invoices, contact support.",
+    "category": "billing",
+    "keywords": ["invoice", "receipt", "billing", "PDF"]
+  },
+  {
+    "id": "faq_015",
+    "question": "Do you offer discounts for students or educators?",
+    "answer": "Yes! We offer a 50% discount on Pro plans for verified students and educators. Apply at our Education page with your .edu email address or school ID. The discount is valid for one year and can be renewed annually with re-verification.",
+    "category": "billing",
+    "keywords": ["discount", "student", "education", "academic"]
+  },
+  {
+    "id": "faq_016",
+    "question": "How do I apply a promo code?",
+    "answer": "Go to Settings > Billing > Apply Promo Code. Enter the code and click 'Apply.' The discount will be reflected on your next billing cycle. Promo codes can only be used once per account and cannot be combined with other offers.",
+    "category": "billing",
+    "keywords": ["promo", "coupon", "code", "discount"]
+  },
+  {
+    "id": "faq_017",
+    "question": "How do I create a new project?",
+    "answer": "Click the '+ New Project' button on your dashboard. Choose a template or start from scratch. Name your project, set the visibility (public or private), and invite collaborators if needed. Free accounts are limited to 5 active projects.",
+    "category": "product_features",
+    "keywords": ["create", "project", "new", "start"]
+  },
+  {
+    "id": "faq_018",
+    "question": "How do I share a project with my team?",
+    "answer": "Open the project and click 'Share' in the top-right corner. Enter the email addresses of your team members and select their permission level (View, Edit, or Admin). Team members will receive an email invitation. You can manage permissions at any time from the Share menu.",
+    "category": "product_features",
+    "keywords": ["share", "team", "collaborate", "invite"]
+  },
+  {
+    "id": "faq_019",
+    "question": "What file formats can I export to?",
+    "answer": "You can export your projects as PDF, CSV, JSON, or HTML. Go to your project, click File > Export, and choose your format. Pro and Enterprise users can also export as XLSX (Excel) and XML. Bulk export is available for Enterprise accounts.",
+    "category": "product_features",
+    "keywords": ["export", "download", "format", "PDF", "CSV"]
+  },
+  {
+    "id": "faq_020",
+    "question": "Does TechCo integrate with other tools?",
+    "answer": "Yes, we integrate with Slack, Google Drive, Dropbox, Microsoft Teams, Zapier, and over 50 other tools. Go to Settings > Integrations to browse and connect. Pro and Enterprise users have access to our REST API for custom integrations.",
+    "category": "product_features",
+    "keywords": ["integrate", "Slack", "Google", "API", "connect"]
+  },
+  {
+    "id": "faq_021",
+    "question": "How do I set up notifications?",
+    "answer": "Go to Settings > Notifications to customize your alert preferences. You can choose to receive notifications via email, in-app, or push notifications. Set notifications for project updates, team mentions, deadlines, and billing events separately.",
+    "category": "product_features",
+    "keywords": ["notifications", "alerts", "email", "push"]
+  },
+  {
+    "id": "faq_022",
+    "question": "How do I use the search function?",
+    "answer": "Use the search bar at the top of your dashboard (or press Ctrl+K / Cmd+K) to search across all projects, documents, and team members. You can filter results by type, date, or project. Advanced search supports Boolean operators (AND, OR, NOT).",
+    "category": "product_features",
+    "keywords": ["search", "find", "filter", "query"]
+  },
+  {
+    "id": "faq_023",
+    "question": "Can I customize the dashboard layout?",
+    "answer": "Yes, you can drag and drop widgets on your dashboard to rearrange them. Click 'Customize' in the top-right corner to add or remove widgets. Available widgets include recent projects, activity feed, team calendar, and analytics. Changes are saved automatically.",
+    "category": "product_features",
+    "keywords": ["customize", "dashboard", "layout", "widgets"]
+  },
+  {
+    "id": "faq_024",
+    "question": "Is there a mobile app?",
+    "answer": "Yes, our mobile app is available for both iOS and Android. Download it from the App Store or Google Play Store. The mobile app supports most features including project viewing, editing, notifications, and team chat. Offline mode is available for Pro users.",
+    "category": "product_features",
+    "keywords": ["mobile", "app", "iOS", "Android", "phone"]
+  },
+  {
+    "id": "faq_025",
+    "question": "How do I use the API?",
+    "answer": "API access is available for Pro and Enterprise users. Go to Settings > Developer > API Keys to generate your API key. Full documentation is available at docs.techco.com/api. The API supports REST and GraphQL, with rate limits of 100 requests/minute for Pro and 1000/minute for Enterprise.",
+    "category": "product_features",
+    "keywords": ["API", "developer", "integration", "REST"]
+  },
+  {
+    "id": "faq_026",
+    "question": "Can I import data from other platforms?",
+    "answer": "Yes, we support importing data from CSV, JSON, Excel, Google Sheets, and several competitor platforms. Go to your project and click File > Import. Our import wizard guides you through mapping fields. Large imports (over 10,000 rows) may take a few minutes to process.",
+    "category": "product_features",
+    "keywords": ["import", "data", "CSV", "migrate"]
+  },
+  {
+    "id": "faq_027",
+    "question": "How long does standard shipping take?",
+    "answer": "Standard shipping within the US takes 5-7 business days. Express shipping (2-3 business days) and overnight shipping are also available at checkout. You'll receive a tracking number by email once your order ships. Shipping times may be longer during holidays.",
+    "category": "shipping_returns",
+    "keywords": ["shipping", "delivery", "time", "days"]
+  },
+  {
+    "id": "faq_028",
+    "question": "How do I track my order?",
+    "answer": "Once your order ships, you'll receive an email with a tracking number and link. You can also track your order from your account at Orders > Track Order. Real-time tracking updates are available for express and overnight shipments.",
+    "category": "shipping_returns",
+    "keywords": ["track", "order", "shipping", "status"]
+  },
+  {
+    "id": "faq_029",
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to over 40 countries. International shipping typically takes 10-15 business days. Additional customs fees and import taxes may apply depending on your country. International orders over $100 qualify for free shipping.",
+    "category": "shipping_returns",
+    "keywords": ["international", "shipping", "global", "countries"]
+  },
+  {
+    "id": "faq_030",
+    "question": "What is your return policy?",
+    "answer": "We accept returns within 30 days of delivery for most items. Products must be in original condition with all packaging. Digital products and custom orders are non-refundable. To start a return, go to Orders > Return Item and follow the instructions.",
+    "category": "shipping_returns",
+    "keywords": ["return", "policy", "refund", "exchange"]
+  },
+  {
+    "id": "faq_031",
+    "question": "How do I return a product?",
+    "answer": "Go to Orders > select the order > click 'Return Item.' Choose the reason for your return and select whether you'd like a refund or exchange. Print the prepaid shipping label and drop off the package at any authorized shipping location. Refunds are processed within 5-7 business days after we receive the item.",
+    "category": "shipping_returns",
+    "keywords": ["return", "process", "send back", "ship"]
+  },
+  {
+    "id": "faq_032",
+    "question": "What if my order arrives damaged?",
+    "answer": "Contact support within 48 hours of delivery with photos of the damage. We'll send a replacement at no cost or issue a full refund. You don't need to return the damaged item. Please keep the packaging until the claim is resolved.",
+    "category": "shipping_returns",
+    "keywords": ["damaged", "broken", "defective", "replacement"]
+  },
+  {
+    "id": "faq_033",
+    "question": "Can I exchange an item for a different size or color?",
+    "answer": "Yes, go to Orders > select the order > click 'Exchange Item.' Choose the new size or color you'd like. Exchanges are free and ship within 2 business days once we receive your original item. If the new item costs more, you'll be charged the difference.",
+    "category": "shipping_returns",
+    "keywords": ["exchange", "size", "color", "swap"]
+  },
+  {
+    "id": "faq_034",
+    "question": "Is there free shipping?",
+    "answer": "Free standard shipping is available on all orders over $50 within the US. Pro subscribers get free shipping on all orders regardless of amount. During promotional events, free shipping thresholds may be lowered.",
+    "category": "shipping_returns",
+    "keywords": ["free", "shipping", "threshold", "delivery"]
+  },
+  {
+    "id": "faq_035",
+    "question": "The app keeps crashing on my phone.",
+    "answer": "Try these steps: (1) Force close the app and reopen it. (2) Check for app updates in the App Store or Google Play. (3) Clear the app cache in your phone's settings. (4) Restart your phone. If crashes persist, contact support with your device model and OS version so we can investigate.",
+    "category": "technical_support",
+    "keywords": ["crash", "app", "phone", "freeze", "bug"]
+  },
+  {
+    "id": "faq_036",
+    "question": "Why is the website loading slowly?",
+    "answer": "Slow loading can be caused by: (1) slow internet connection, (2) browser cache issues, (3) browser extensions interfering. Try clearing your browser cache, disabling extensions, or switching browsers. If the issue persists, check our status page at status.techco.com for service updates.",
+    "category": "technical_support",
+    "keywords": ["slow", "loading", "performance", "speed"]
+  },
+  {
+    "id": "faq_037",
+    "question": "Which browsers are supported?",
+    "answer": "We support the latest versions of Chrome, Firefox, Safari, and Edge. Internet Explorer is not supported. For the best experience, use Chrome or Firefox. Mobile browsers (Safari on iOS, Chrome on Android) are also fully supported.",
+    "category": "technical_support",
+    "keywords": ["browser", "Chrome", "Firefox", "Safari", "supported"]
+  },
+  {
+    "id": "faq_038",
+    "question": "My data is not syncing across devices.",
+    "answer": "Make sure you're logged into the same account on all devices. Check that sync is enabled in Settings > Sync. Ensure you have a stable internet connection. If issues persist, try logging out and back in, or force a manual sync from Settings > Sync > Sync Now.",
+    "category": "technical_support",
+    "keywords": ["sync", "devices", "data", "synchronize"]
+  },
+  {
+    "id": "faq_039",
+    "question": "I'm getting an error message. What should I do?",
+    "answer": "Note the exact error message and any error code displayed. Common errors and solutions are listed in our Help Center at help.techco.com. If your error is not listed, contact support with a screenshot of the error, the steps that led to it, and your browser/device information.",
+    "category": "technical_support",
+    "keywords": ["error", "message", "bug", "problem"]
+  },
+  {
+    "id": "faq_040",
+    "question": "Can I use TechCo offline?",
+    "answer": "Pro and Enterprise users can enable offline mode from Settings > General > Offline Mode. In offline mode, you can view and edit cached projects. Changes sync automatically when you reconnect to the internet. Offline mode requires the desktop or mobile app (not available in browsers).",
+    "category": "technical_support",
+    "keywords": ["offline", "internet", "no connection", "airplane"]
+  },
+  {
+    "id": "faq_041",
+    "question": "How do I update the app?",
+    "answer": "The desktop app checks for updates automatically on launch. To manually update, go to Help > Check for Updates. Mobile app updates are distributed through the App Store (iOS) or Google Play (Android). We recommend enabling auto-updates to stay on the latest version.",
+    "category": "technical_support",
+    "keywords": ["update", "version", "upgrade", "latest"]
+  },
+  {
+    "id": "faq_042",
+    "question": "How much storage do I get?",
+    "answer": "Free accounts get 1 GB of storage. Pro accounts get 50 GB, and Enterprise accounts get unlimited storage. You can check your usage at Settings > Account > Storage. If you're running low, consider archiving old projects or upgrading your plan.",
+    "category": "technical_support",
+    "keywords": ["storage", "space", "capacity", "limit"]
+  },
+  {
+    "id": "faq_043",
+    "question": "How do I contact customer support?",
+    "answer": "You can reach support through: (1) Live chat on our website (available 9 AM - 9 PM EST), (2) Email at support@techco.com (24-hour response time), (3) Phone at 1-800-TECHCO1 (Mon-Fri, 9 AM - 5 PM EST). Pro and Enterprise users get priority support with faster response times.",
+    "category": "general",
+    "keywords": ["contact", "support", "help", "phone", "email"]
+  },
+  {
+    "id": "faq_044",
+    "question": "What are your business hours?",
+    "answer": "Our support team is available Monday through Friday, 9 AM to 5 PM Eastern Time. Live chat is available extended hours, 9 AM to 9 PM EST. Our online Help Center and community forum are available 24/7.",
+    "category": "general",
+    "keywords": ["hours", "availability", "schedule", "open"]
+  },
+  {
+    "id": "faq_045",
+    "question": "Do you have a community forum?",
+    "answer": "Yes! Join our community forum at community.techco.com. Ask questions, share tips, and connect with other users. Our team moderates the forum and responds to popular threads. You can also find tutorials and best practices contributed by the community.",
+    "category": "general",
+    "keywords": ["community", "forum", "discussion", "users"]
+  },
+  {
+    "id": "faq_046",
+    "question": "How does TechCo protect my data?",
+    "answer": "We use AES-256 encryption for data at rest and TLS 1.3 for data in transit. Our servers are hosted in SOC 2 certified data centers. We perform regular security audits and penetration testing. You can enable additional security features like 2FA and IP whitelisting from your account settings.",
+    "category": "general",
+    "keywords": ["security", "privacy", "data", "encryption", "protection"]
+  },
+  {
+    "id": "faq_047",
+    "question": "What is your privacy policy?",
+    "answer": "We never sell your personal data to third parties. We collect only the data necessary to provide our services. You can view and delete your data at any time from Settings > Privacy. Our full privacy policy is available at techco.com/privacy. We comply with GDPR and CCPA regulations.",
+    "category": "general",
+    "keywords": ["privacy", "policy", "data", "GDPR", "personal"]
+  },
+  {
+    "id": "faq_048",
+    "question": "Is TechCo accessible for users with disabilities?",
+    "answer": "Yes, we are committed to accessibility. Our platform follows WCAG 2.1 AA guidelines. Features include screen reader support, keyboard navigation, high-contrast mode, and adjustable text sizes. Report accessibility issues to accessibility@techco.com.",
+    "category": "general",
+    "keywords": ["accessibility", "disability", "screen reader", "WCAG"]
+  },
+  {
+    "id": "faq_049",
+    "question": "Are you hiring?",
+    "answer": "Check our careers page at techco.com/careers for current openings. We hire for engineering, design, product, marketing, and support roles. We offer remote-friendly positions, competitive benefits, and a collaborative culture.",
+    "category": "general",
+    "keywords": ["hiring", "jobs", "careers", "work"]
+  },
+  {
+    "id": "faq_050",
+    "question": "Where can I find tutorials and documentation?",
+    "answer": "Visit our Help Center at help.techco.com for tutorials, video guides, and documentation. We also publish regular blog posts with tips and best practices at techco.com/blog. New users should start with our 'Getting Started' guide available on the Help Center homepage.",
+    "category": "general",
+    "keywords": ["tutorials", "documentation", "help", "guide", "learn"]
+  }
+]

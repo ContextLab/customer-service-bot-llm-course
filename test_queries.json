@@ -1,0 +1,142 @@
+[
+  {
+    "id": "test_001",
+    "query": "I forgot my password and can't log in",
+    "relevant_ids": ["faq_001", "faq_002"],
+    "category": "account_access",
+    "notes": "Tests paraphrasing - 'forgot my password' should match password reset FAQ"
+  },
+  {
+    "id": "test_002",
+    "query": "My account got locked after too many wrong passwords",
+    "relevant_ids": ["faq_002", "faq_001"],
+    "category": "account_access",
+    "notes": "Tests understanding of account lockout scenario"
+  },
+  {
+    "id": "test_003",
+    "query": "How do I add extra security to my account?",
+    "relevant_ids": ["faq_003"],
+    "category": "account_access",
+    "notes": "Tests semantic matching - 'extra security' should match 2FA FAQ"
+  },
+  {
+    "id": "test_004",
+    "query": "I want to close my account permanently",
+    "relevant_ids": ["faq_006"],
+    "category": "account_access",
+    "notes": "Tests synonym matching - 'close account' = 'delete account'"
+  },
+  {
+    "id": "test_005",
+    "query": "How much does the premium plan cost?",
+    "relevant_ids": ["faq_009"],
+    "category": "billing",
+    "notes": "Tests vocabulary variation - 'premium' should match 'Pro' plan"
+  },
+  {
+    "id": "test_006",
+    "query": "I need to change my credit card on file",
+    "relevant_ids": ["faq_010"],
+    "category": "billing",
+    "notes": "Tests payment method update scenario"
+  },
+  {
+    "id": "test_007",
+    "query": "Can I get my money back if I'm not satisfied?",
+    "relevant_ids": ["faq_011"],
+    "category": "billing",
+    "notes": "Tests conversational phrasing for refund policy"
+  },
+  {
+    "id": "test_008",
+    "query": "There's a charge on my card I don't recognize",
+    "relevant_ids": ["faq_012"],
+    "category": "billing",
+    "notes": "Tests unexpected billing inquiry"
+  },
+  {
+    "id": "test_009",
+    "query": "I'm a college student - do you have any deals?",
+    "relevant_ids": ["faq_015", "faq_016"],
+    "category": "billing",
+    "notes": "Tests student discount matching with conversational tone"
+  },
+  {
+    "id": "test_010",
+    "query": "How do I start a new project from scratch?",
+    "relevant_ids": ["faq_017"],
+    "category": "product_features",
+    "notes": "Tests basic feature question"
+  },
+  {
+    "id": "test_011",
+    "query": "Can my team members see and edit my work?",
+    "relevant_ids": ["faq_018"],
+    "category": "product_features",
+    "notes": "Tests collaboration/sharing feature matching"
+  },
+  {
+    "id": "test_012",
+    "query": "I need to download my data as a spreadsheet",
+    "relevant_ids": ["faq_019", "faq_026"],
+    "category": "product_features",
+    "notes": "Tests export functionality - 'spreadsheet' should match CSV/Excel"
+  },
+  {
+    "id": "test_013",
+    "query": "Does this work with Slack?",
+    "relevant_ids": ["faq_020"],
+    "category": "product_features",
+    "notes": "Tests exact keyword match for integrations"
+  },
+  {
+    "id": "test_014",
+    "query": "Is there an iPhone app?",
+    "relevant_ids": ["faq_024"],
+    "category": "product_features",
+    "notes": "Tests mobile app question with specific device"
+  },
+  {
+    "id": "test_015",
+    "query": "I want to send back the product I ordered",
+    "relevant_ids": ["faq_030", "faq_031"],
+    "category": "shipping_returns",
+    "notes": "Tests 'send back' as synonym for 'return'"
+  },
+  {
+    "id": "test_016",
+    "query": "When will my package arrive?",
+    "relevant_ids": ["faq_027", "faq_028"],
+    "category": "shipping_returns",
+    "notes": "Tests shipping time and tracking queries"
+  },
+  {
+    "id": "test_017",
+    "query": "The item I received is broken",
+    "relevant_ids": ["faq_032"],
+    "category": "shipping_returns",
+    "notes": "Tests damaged item scenario"
+  },
+  {
+    "id": "test_018",
+    "query": "The app keeps freezing on my Android phone",
+    "relevant_ids": ["faq_035"],
+    "category": "technical_support",
+    "notes": "Tests technical issue with 'freezing' as synonym for 'crashing'"
+  },
+  {
+    "id": "test_019",
+    "query": "My changes aren't showing up on my other computer",
+    "relevant_ids": ["faq_038"],
+    "category": "technical_support",
+    "notes": "Tests sync issue described in user terms"
+  },
+  {
+    "id": "test_020",
+    "query": "What's the best way to reach a human for help?",
+    "relevant_ids": ["faq_043", "faq_044"],
+    "category": "general",
+    "notes": "Tests contact support question in conversational language"
+  }
+]
